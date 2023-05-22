@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "23846083729",
+    "project_id": "cinemago-74c0c",
+    "storage_bucket": "cinemago-74c0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23846083729:android:e4d925f5bdee99fd3db330",
+        "android_client_info": {
+          "package_name": "com.example.cinemamovie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23846083729-nnpaaiobs9qg7n2ko4rbichjgkja1tpo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFLS9LJPtkD3MO2BCwsT-9tmwfyvBcJz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23846083729-nnpaaiobs9qg7n2ko4rbichjgkja1tpo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
